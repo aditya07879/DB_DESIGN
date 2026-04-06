@@ -1,3 +1,5 @@
+#DAY 1
+
 # Instagram Thrift Store DB
 
 
